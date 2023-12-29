@@ -1,0 +1,28 @@
+.container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 2rem;
+      background-color: burlywood;
+      padding: 5rem;
+
+}
+
+section {
+      background-color: blueviolet;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+label {
+      font-size: 30px;
+      margin-right: 10px;
+}
+
+input {
+      padding: 1rem;
+      border: none;
+      border-radius: 2rem;
+}
